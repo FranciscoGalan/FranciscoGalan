@@ -4,4 +4,4 @@ I'm a data analyst with an expertise in technical communication.  Currently, I t
 
 - 🔭 I’m currently working on a data visualization course for Mexican Universities in the state of Puebla.
 - 📫 You can reach me at fcogaltam@gmail.com
-- ✨ Also, I'm a vegetarian and love cycling and playing [chess](https://lichess.org/@/FcoGal). 
+- ✨ I'm a vegetarian and love cycling, [reading](https://www.goodreads.com/user/show/40732498-francisco-galan) and playing [chess](https://lichess.org/@/FcoGal). 
