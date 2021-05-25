@@ -5,3 +5,7 @@ I'm a data analyst with an expertise in technical communication.  Currently, I t
 - 🔭 I’m currently studying for the Tableau Desktop Specialist Certification. 
 - 📫 You can reach me at fcogaltam@gmail.com
 - ✨ I'm a vegetarian and love cycling, [reading](https://www.goodreads.com/user/show/40732498-francisco-galan) and playing [chess](https://lichess.org/@/FcoGal). 
+
+### Let's connect:
+
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/francisco-galan/)
