@@ -6,7 +6,7 @@ Also,
 - ✨ I'm a vegetarian and love cycling, [reading](https://www.goodreads.com/user/show/40732498-francisco-galan) and playing [chess](https://lichess.org/@/FcoGal).
 - 📫 You can reach me at fcogaltam@gmail.com
 
-#### 🛠 &nbsp;Tools :
+#### Tools :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
