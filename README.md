@@ -14,7 +14,7 @@ Also,
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/FranciscoGalan/FranciscoGalan/blob/main/Images/tableau-logo.svg" title="Tableau"  alt="Tableau" width="40" height="40"/>&nbsp;
+<img src="https://github.com/FranciscoGalan/FranciscoGalan/blob/main/Images/tableau-software.svg" title="Tableau"  alt="Tableau" width="40" height="40"/>&nbsp;
 
 </p>
 
