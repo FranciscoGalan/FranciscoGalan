@@ -1,6 +1,6 @@
 ### Hi! 
 
-I'm a data analyst with an expertise in technical communication. I'm currently the Data Analysis Lead at Tandamos (a fintech startup) and a Professor of Technical Communication at Mexico's most important Economics, Law, and Political Science institution of higher learning. 
+I'm a data analyst with an expertise in technical communication. I currently work as Data Visualization Specialist at Improvado (a data integration startup) and as Adjunct Professor at Mexico's most important Economics, Law, and Political Science institution of higher learning. 
 
 Also,
 - ✨ I'm a vegetarian and love cycling, [reading](https://www.goodreads.com/user/show/40732498-francisco-galan) and playing [chess](https://lichess.org/@/FcoGal).
@@ -9,11 +9,13 @@ Also,
 #### Tools :
 
 <p>
+<img src="https://github.com/FranciscoGalan/FranciscoGalan/blob/main/Images/Google_Sheets_Logo.svg" title="Sheets"  alt="Sheets" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" title="Excel"  alt="Excel" width="40" height="40"/>&nbsp;
+<img src="https://github.com/FranciscoGalan/FranciscoGalan/blob/main/Images/tableau-software.svg" title="Tableau"  alt="Tableau" width="40" height="40"/>&nbsp;
+
 </p>
 
 ### Let's connect:
