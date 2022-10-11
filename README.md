@@ -2,6 +2,8 @@
 
 I'm a data analyst with an expertise in technical communication. I currently work as Data Visualization Specialist at Improvado (a data integration startup) and as Adjunct Professor at Mexico's most important Economics, Law, and Political Science institution of higher learning. 
 
+Here you can find [my portfolio](https://franciscogalan.github.io/). 
+
 Also,
 - ✨ I'm a vegetarian and love cycling, [reading](https://www.goodreads.com/user/show/40732498-francisco-galan) and playing [chess](https://lichess.org/@/FcoGal).
 - 📫 You can reach me at fcogaltam@gmail.com
